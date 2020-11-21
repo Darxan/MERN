@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "jwtSecret": "abdulaziz kholbaev funder dao",
+    "mongoURi": "mongodb+srv://daodex:A79196727856j@cluster0.jsiu3.mongodb.net/app?retryWrites=true&w=majority",
+    "last": "mongodb+srv://daodex:A79196727856j@cluster0.4cygi.mongodb.net/app?retryWrites=true&w=majority",
+    "last1": "mongodb+srv://daodex:<password>@cluster0.4cygi.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
